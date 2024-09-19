@@ -10,3 +10,11 @@ WIP
 
 ## Usage
 WIP
+
+## To do
+- [ ] Split start.py into modules
+- [ ] Add workflows
+- [ ] Change referers
+- [ ] Add proxies
+- [ ] Fix docker environment
+- [ ] Add general targets
