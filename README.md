@@ -18,3 +18,5 @@ WIP
 - [ ] Add proxies
 - [ ] Fix docker environment
 - [ ] Add general targets
+- [ ] Add installation guide
+- [ ] Add usage guide
